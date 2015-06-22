@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import urllib2
 import re
-import json
 
 #Below function returns the soup for the url specified in the parameter
 def souper(url):        
