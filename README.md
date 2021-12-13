@@ -21,5 +21,5 @@ After installing the required packages, execute the script:
 `python3 zenpencils-dl.py`
 
 ## Copyright
-Zen Pencils © Gavin Aung Than 2012-2021. All Zen Pencils artwork © Gavin Aung Than 2012-2019. All quotes © their respective owners.
+Zen Pencils © Gavin Aung Than 2012-2021. All Zen Pencils artwork © Gavin Aung Than 2012-2021. All quotes © their respective owners.
 
